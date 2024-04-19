@@ -1,5 +1,5 @@
 # Heart Disease Prediction
-![heart]([link_to_your_image.png](https://partheniumprojects.com/wp-content/uploads/2018/12/heart-disease-prediction-3.png))
+![heart](https://partheniumprojects.com/wp-content/uploads/2018/12/heart-disease-prediction-3.png)
 
 
 ## Overview
